@@ -1,0 +1,17 @@
+Reading config file...
+Reading line: #Path is the path to your csgo directory
+Reading line: #For example "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive"
+Reading line: Path: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive
+Csgo path read: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive
+Reading line: #Tags are the file extensions for which to delete maps for
+Reading line: #For example "bhop_, surf_" could be your tags
+Reading line: Tags: bhop_
+Tag read: bhop_
+Config file read
+Map deletion loop started
+CSGO IS OPEN
+CSGO IS OPEN
+CSGO IS OPEN
+Removing file: bhop_kore.bsp
+Removing file: bhop_kore.nav
+Removing file: bhop_terry.bsp
